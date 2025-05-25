@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\WebProjectC#\\WebProjectC#.csproj": {}
+    "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\ClassLibrary.service\\ClassLibrary.service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\WebProjectC#\\WebProjectC#.csproj": {
+    "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\ClassLibrary.service\\ClassLibrary.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\WebProjectC#\\WebProjectC#.csproj",
-        "projectName": "WebProjectC#",
-        "projectPath": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\WebProjectC#\\WebProjectC#.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\ClassLibrary.service\\ClassLibrary.service.csproj",
+        "projectName": "ClassLibrary.service",
+        "projectPath": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\ClassLibrary.service\\ClassLibrary.service.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\WebProjectC#\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\Desktop\\sites\\WebProjectC#\\ClassLibrary.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,20 +50,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -76,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
